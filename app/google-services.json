@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "596748213099",
+    "firebase_url": "https://fourtwentychat-29c31.firebaseio.com",
+    "project_id": "fourtwentychat-29c31",
+    "storage_bucket": "fourtwentychat-29c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596748213099:android:1b08edf066fe619d",
+        "android_client_info": {
+          "package_name": "pl.com.bubka.fourtwentychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596748213099-0h26gq02a037lke9q5oncdm9jd0lrpfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.com.bubka.fourtwentychat",
+            "certificate_hash": "f1df0096c0d0a7ca769463847c230808fdc40286"
+          }
+        },
+        {
+          "client_id": "596748213099-okr5ko13bpadnlnhcb1els2re94fsar4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC_MnU8_GCFDHP1Av1-Gl9034X56CrPKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596748213099-okr5ko13bpadnlnhcb1els2re94fsar4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
